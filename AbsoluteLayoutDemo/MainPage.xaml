@@ -5,6 +5,11 @@
              Title="Absolute Layout Demo">
 
     <AbsoluteLayout Margin="0">
+        <Button BackgroundColor="AliceBlue"
+                Text="This does not do anything"
+                FontSize="20">
+            
+        </Button>
                     <BoxView Color="Silver"
                              AbsoluteLayout.LayoutBounds="0,10,200,5"/>  <!--"x,y,width, height-->
                     <BoxView Color="Silver"
