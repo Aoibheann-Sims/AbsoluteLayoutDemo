@@ -6,7 +6,7 @@
 
     <AbsoluteLayout Margin="0">
         <Button BackgroundColor="AliceBlue"
-                Text="This does not do anything"
+                Text="Test button"
                 FontSize="20">
             
         </Button>
